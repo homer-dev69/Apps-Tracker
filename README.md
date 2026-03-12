@@ -1,21 +1,26 @@
+<<<<<<< HEAD
 # Apps Tracker
 
-Программа которая отслеживает какие приложения ты запускаешь и сколько времени в них проводишь.
+A program that tracks which apps you open and how much time you spend in them.
 
-## Установка
-- 1.Ты уже установил **приложение**
-- 2.Для начала отслеживания перезапустите свой **пк** либо запустите файл *apps-tracker-bg.exe*
-- 3.Для просмотра приложений запущенных на твоём **пк**, времяпровождение в них и настройки, запустите *apps-tracker.exe*
+## Installation
+- 1. Download the version you need
+- 2. Unzip the file
+- 3. To start tracking, restart your **PC** or run *apps-tracker-bg.exe*
+- 4. To view applications running on your **PC**, their time spent, and settings, run *apps-tracker.exe*
 
+## Usage
+- **LOG** — *List of all running applications*
+- **ACTIVITY** — *Time spent in each application*
+- **SETTINGS** — *Autostart settings*
 
-## Использование
-- **LOG** — *список всех запущенных приложений*
-- **ACTIVITY** — *время проведённое в каждом приложении*
-- **SETTINGS** — *настройки автозапуска*
-
-## Требования
+## Requirements
 - **Windows 10/11**
 
-## Файлы
-- *apps-tracker-bg.exe* — фоновый процесс
-- *apps-tracker.exe* — приложение
+## Files
+- *apps-tracker-bg.exe* — Background process
+- *apps-tracker.exe* — Application
+=======
+# Apps-Tracker
+Great for viewing and spending time with applications running on your PC.
+>>>>>>> 076726e7fed883f51fe75987a035dcf15158c4da
