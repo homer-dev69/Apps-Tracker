@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Apps Tracker
 
 A program that tracks which apps you open and how much time you spend in them.
@@ -20,7 +19,3 @@ A program that tracks which apps you open and how much time you spend in them.
 ## Files
 - *apps-tracker-bg.exe* — Background process
 - *apps-tracker.exe* — Application
-=======
-# Apps-Tracker
-Great for viewing and spending time with applications running on your PC.
->>>>>>> 076726e7fed883f51fe75987a035dcf15158c4da
